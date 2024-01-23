@@ -1,0 +1,2 @@
+[console_scripts]
+reloaded = reloaded.reloaded:start_reloaded

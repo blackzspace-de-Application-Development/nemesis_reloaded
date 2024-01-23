@@ -1,0 +1,8 @@
+colorama
+coloredlogs
+dnslib
+pyfiglet
+python3-nmap
+requests
+requests
+scapy
